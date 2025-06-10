@@ -3,6 +3,21 @@
 Slides of Naproche- and ForTheL-related talks.
 
 
+## 2025
+
+* Peter Koepke,
+  [*Naproche – Talking to ATPs*](2025/koepke_naproche-talking-to-atps.pdf)
+  (EuroProofNet School on Natural Formal Mathematics; Bonn, Germany)
+
+* Peter Koepke,
+  [*A Naproche Teaser*](2025/koepke_a-naproche-teaser.pdf)
+  (EuroProofNet School on Natural Formal Mathematics; Bonn, Germany)
+
+* Adrian De Lon,
+  [*Naproche-ZF*](2025/de-lon_naproche-zf.pdf)
+  (EuroProofNet School on Natural Formal Mathematics; Bonn, Germany)
+
+
 ## 2023
 
 * Marcel Schütz,
