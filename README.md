@@ -17,7 +17,7 @@ Slides of Naproche- and ForTheL-related talks.
   (AITP; Aussois, France)
 
 * Peter Koepke,
-  [*An Brief Tutorial on Mathematical Formalizations in Naproche-SAD*](2020/koepke_a-brief-tutorial-on-mathematical-formalizations-in-naproche-sad.pdf)
+  [*A Brief Tutorial on Mathematical Formalizations in Naproche-SAD*](2020/koepke_a-brief-tutorial-on-mathematical-formalizations-in-naproche-sad.pdf)
   (HCM Workshop: Mathematical Language and Practical Type Theory; Bonn, Germany)
 
 * Peter Koepke,
@@ -40,13 +40,13 @@ Slides of Naproche- and ForTheL-related talks.
 
 * Peter Koepke,
   [*Textbook Mathematics in the Naproche-SAD System*](2019/koepke_textbook-mathematics-in-the-naproche-sad-system.pdf)
-  ( CICM; Prague, Czech Republic)
+  (CICM; Prague, Czech Republic)
 
 
 ## 2018
 
 * Steffen Frerix, Peter Koepke,
-  [*Automatic Proof-Checking of Ordinary Mathematical Texts*](2018/frerix-koepke_ automatic-proof-checkingof-ordinary-mathematical-texts.pdf)
+  [*Automatic Proof-Checking of Ordinary Mathematical Texts*](2018/frerix-koepke_automatic-proof-checkingof-ordinary-mathematical-texts.pdf)
   (CICM 2018; Hagenberg, Austria)
 
 * Steffen Frerix, Peter Koepke,
